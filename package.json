@@ -16,7 +16,8 @@
         "host"        : "https://node-pre-gyp-tests.s3-us-west-1.amazonaws.com"
     },
     "dependencies"  : {
-      "node-pre-gyp": "0.5.x"
+      "node-pre-gyp": "albanm/node-pre-gyp",
+      "node-pre-gyp-hosting-github": "albanm/node-pre-gyp-hosting-github"
     },
     "bundledDependencies":["node-pre-gyp"],
     "scripts": {
