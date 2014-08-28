@@ -1,12 +1,12 @@
 {
     "name": "node-addon-example",
     "version": "0.1.4",
-    "description": "Hello world app packaged with node-pre-gyp",
+    "description": "Hello world app packaged with node-pre-gyp - fork for github hosting",
     "main": "./index.js",
     "author": "Dane Springmeyer <springmeyer>",
     "repository": {
         "type": "git",
-        "url": "git://github.com/springmeyer/node-addon-example.git"
+        "url": "git://github.com/albanm/node-addon-example.git"
     },
     "binary": {
         "module_name": "node_addon_example",
